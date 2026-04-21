@@ -1,0 +1,10 @@
+s1={13,33,34,56,72,34}
+print(type(s1))
+print(s1)
+s2=set([1,2,3,1,1,2])
+print(s2)
+s3={}
+print(type(s3))
+s4=set()
+print(type(s4))
+print(s4)

@@ -1,0 +1,6 @@
+r=range(20,10,-2)
+print(r)
+print(list(r))
+s=range(1,16,3)
+print(s)
+print(list(s))

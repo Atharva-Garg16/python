@@ -1,0 +1,5 @@
+i=range(5)
+print(type(i))
+print(i)
+l=list(i)
+print(l)
